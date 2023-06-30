@@ -8,7 +8,7 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sistema.examen</groupId>
+	<groupId>com.yoprogramo</groupId>
 	<artifactId>YoProgramo-Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>YoProgramo-Backend</name>
